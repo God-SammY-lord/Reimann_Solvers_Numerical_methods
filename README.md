@@ -9,5 +9,5 @@ To get plots for Numerical schemes for Euler equations and compare them with the
 
 The Final Project Report Named "Reimann_Problem_for_Certain_Hyperbolic_System" contains a detailed explanation.
 
-All the Tests and schemes are derived from the book "Riemann Solvers and Numerical Methods for Fluid Dynamics: A Practical Introduction" by "Eleuterio F. Toro ".
+All the Tests and schemes are derived from the book "Riemann Solvers and Numerical Methods for Fluid Dynamics: A Practical Introduction" by Eleuterio F. Toro.
 
