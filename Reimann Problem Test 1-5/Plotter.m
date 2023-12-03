@@ -1,4 +1,4 @@
-%A demo script file to show the use of analytic_sod.m
+
 time = 0.035;
 data = Test_5(time);
 figure,
